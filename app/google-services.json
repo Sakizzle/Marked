@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "337429344698",
+    "firebase_url": "https://psychic-acronym-164023.firebaseio.com",
+    "project_id": "psychic-acronym-164023",
+    "storage_bucket": "psychic-acronym-164023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337429344698:android:360b57fcb91b8d09",
+        "android_client_info": {
+          "package_name": "com.example.saketh.marked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337429344698-vunal9aom9clu609t1vu87437br8nm2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQmmp5Ul3gwK7pjqt10Gm2hFhlSXbVJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

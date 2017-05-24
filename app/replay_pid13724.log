@@ -1,0 +1,22 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 253 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 221211 0 0
+ciMethod java/util/Collection iterator ()Ljava/util/Iterator; 0 0 1 0 -1
+ciMethod java/util/List iterator ()Ljava/util/Iterator; 0 0 1 0 -1
+ciMethod java/util/Collections unmodifiableList (Ljava/util/List;)Ljava/util/List; 4097 1 5813 0 -1
+ciMethod java/util/Iterator hasNext ()Z 0 0 1 0 -1
+ciMethod java/util/Iterator next ()Ljava/lang/Object; 0 0 1 0 -1
+ciMethod java/util/ArrayList <init> ()V 145 1 16660 0 -1
+ciMethod java/util/ArrayList elementData (I)Ljava/lang/Object; 2185 1 272856 0 0
+ciMethod java/util/ArrayList get (I)Ljava/lang/Object; 2177 1 255286 0 128
+ciMethod java/util/ArrayList add (Ljava/lang/Object;)Z 641 1 55834 0 -1
+ciMethod java/util/ArrayList rangeCheck (I)V 2185 1 273657 0 64
+ciMethod java/util/ArrayList iterator ()Ljava/util/Iterator; 3257 1 25782 0 192
+ciMethod java/util/ArrayList access$100 (Ljava/util/ArrayList;)I 1265 1 158 0 0
+ciMethod java/util/Collections$UnmodifiableCollection iterator ()Ljava/util/Iterator; 4097 1 5633 0 640
+ciMethodData java/lang/Object <init> ()V 2 221254 orig 264 104 158 160 89 0 0 0 0 136 4 144 20 0 0 0 0 32 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 49 242 26 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 3 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethod java/util/BitSet set (I)V 1177 1 5530 0 -1
+ciMethod java/util/BitSet get (I)Z 1625 1 5551 0 -1
+ciMethodData java/util/ArrayList add (Ljava/lang/Object;)Z 2 60966 orig 264 104 158 160 89 0 0 0 0 176 11 158 20 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 80 0 0 0 145 110 7 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 15 0 4 0 1 0 64 0 0 0 255 255 255 255 2 0 7 0 0 0 0 0 data 8 0x70002 0xedda 0x1a0104 0x0 0x18d73810 0xa3 0x18d738c0 0x10 oops 2
